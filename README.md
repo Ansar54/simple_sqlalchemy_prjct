@@ -14,13 +14,13 @@ Configuration: Easily configurable for different database backends, with support
 
 2. **Instlling Depemdencies**:<br/>
    ```bash
-   **Run Commnd** pip install -r requirements.txt
+    pip install -r requirements.txt
 
 4. **Run the Application**:<br/>
     ```bash
-   **Run Command** uvicorn main_appname:app --reload
+    uvicorn main_appname:app --reload
 
-**If you have any queries **Contact me** linkedin "https://www.linkedin.com/in/ansar-ul-haq-a455b0241/"**
+**If you have any queries **Contact me** linkedin "https://www.linkedin.com/in/ansar-ul-haq-a455b0241/"**<br/>
 **Developed** in Python(FastAPI)
 <br/>
 **Author**:Ansar Ul Haq
