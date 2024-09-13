@@ -12,10 +12,12 @@ Configuration: Easily configurable for different database backends, with support
    ```bash
    git clone https://github.com/username/repository-name.git
 
-2. **Instlling Depemdencies**:
-     **Run Commnd** pip install -r requirements.txt
+2. **Instlling Depemdencies**:<br/>
+   ```bash
+   **Run Commnd** pip install -r requirements.txt
 
-3. **Run the Application**:
+4. **Run the Application**:<br/>
+    ```bash
    **Run Command** uvicorn main_appname:app --reload
 
 **If you have any queries **Contact me** linkedin "https://www.linkedin.com/in/ansar-ul-haq-a455b0241/"**
